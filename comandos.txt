@@ -1,0 +1,5 @@
+sudo apt-get install -y build-essential libseccomp-dev pkg-config squashfs-tools cryptsetup
+sudo apt-get install -y libglib2.0-dev
+sudo apt-get install -y libfuse-dev fuse3 libfuse3-dev
+sudo apt-get install -y uuid-dev libseccomp-dev libgpgme11-dev squashfs-tools liblz4-dev libssl-dev pkg-config
+sudo apt-get install -y liblz4-dev liblzma-dev zlib1g-dev
